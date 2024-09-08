@@ -51,9 +51,10 @@ pip install torch transformers pillow
 Here is a brief example of how the script processes an image:
 
 1. **Input Sudoku Image**:
+   
     ![input image](https://raw.githubusercontent.com/savirsingh/ocr-sudoku-solver/main/examples/587.png)
 
-2. **Output Sudoku Grid**:
+3. **Output Sudoku Grid**:
     ```
     sudoku board (unsolved):
     3 7 5 . 2 . . 4 9
